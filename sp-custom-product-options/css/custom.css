@@ -1,0 +1,27 @@
+.custom-fields {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.custom-field {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.custom-field label {
+    display: block;
+    margin-bottom: 5px;
+}
+.custom-field input[type="text"] {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.custom-field select {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.custom-field a.remove-field {
+    color: #a00;
+    display: inline-block;
+    margin-top: 10px;
+}
